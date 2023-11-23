@@ -1,6 +1,0 @@
-steam
-regedit
-cmd
-taskmgr
-Discord
-javaw

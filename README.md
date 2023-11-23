@@ -22,9 +22,13 @@ Kullanım Kılavuzu :
 //Kapatılmasını istediğim programlar ZKitap,Blockctrl,Regedit,Taskmgr ve son olarak da Chrome olsun.
 
 ZKitap
+
 Blockctrl
+
 Regedit
+
 Taskmgr
+
 Chrome
 
 

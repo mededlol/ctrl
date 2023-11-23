@@ -22,14 +22,12 @@ Kullanım Kılavuzu :
 //Kapatılmasını istediğim programlar ZKitap,Blockctrl,Regedit,Taskmgr ve son olarak da Chrome olsun.
 
 ZKitap
-
 Blockctrl
-
 Regedit
-
 Taskmgr
-
 Chrome
+
+
 5 - Son olarak blockctrl.exe adındaki programı isteğinize göre Sağ Tık > Yönetici Olarak Çalıştır ile ya da Sağ Tık > Aç olarak çalıştırın. Eğer program doğru çalışıyorsa diğer programları kapatmaya ve masaüstünde oluşturduğunuz block isimli metin belgesini gizlemeye başlayacaktır. Gizlenmiş dosyaya erişim için Dosya Gezgini kullanarak Gizli Dosyaları Göster'i açık hale getirin.(Uyarı : Yönetici olarak çalıştırmak izin olmadan kapanmayan bazı programlar için önerilir.)
 
 
